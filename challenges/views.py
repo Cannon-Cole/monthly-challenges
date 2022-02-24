@@ -16,7 +16,8 @@ monthly_challenges = {
     "september": "Learn at least one new thing about an ancient empire everyday!",
     "october": "Try some food, especially treats, you haven't tried before!",
     "november": "Practice continued education. Keep up on changes in your profession or start on a new speciality/profession!",
-    "december": "Increase the length and/or quality of sleep you get every night!"
+    "december": "Increase the length and/or quality of sleep you get every night!",
+    "fake": None
 }
 
 
